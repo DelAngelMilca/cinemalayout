@@ -13,5 +13,25 @@
 	margin:7px;
 	width: 12%;
 	padding-left:20px; 
+}
+.derecha {
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	left: 70px;
+	bottom: 30px;
+	font-size: 30px;
 
+}
+/*investigar bien las barras de navegacion*/
+.flexsearch--wrapper {
+	height: auto;
+	width: auto;
+	max-width: 100%;
+	overflow: hidden;
+	background: transparent;
+	margin: 0;
+	position:relative;
+	left: 75%;
+	top:-30px;
 }
